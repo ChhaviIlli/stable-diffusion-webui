@@ -1,3 +1,6 @@
+textual inversion
+https://blog.paperspace.com/dreambooth-stable-diffusion-tutorial-part-2-textual-inversion/
+
 How to deploy stable diffusion
 https://blog.paperspace.com/stable-diffusion-webui-deployment-2/
 
